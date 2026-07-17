@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Flood Came Again. So Did the Young People. | Dawn</title>
+<style>
+  body {
+    background-color: #0f0f0f;
+    color: #e8e6e3;
+    font-family: Georgia, 'Times New Roman', serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 60px 24px;
+  }
+  .label {
+    color: #d4af37;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+  h1 {
+    color: #ffffff;
+    font-size: 34px;
+    line-height: 1.3;
+    margin: 0 0 12px 0;
+  }
+  .byline {
+    color: #999999;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #d4af37;
+    padding-bottom: 24px;
+  }
+  p {
+    font-size: 18px;
+    margin-bottom: 24px;
+  }
+  a.back {
+    color: #d4af37;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    letter-spacing: 1px;
+  }
+  a.back:hover {
+    text-decoration: underline;
+  }
+  @media (max-width: 600px) {
+    h1 { font-size: 26px; }
+    p { font-size: 17px; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <a class="back" href="../index.html">&#8592; Back to Portfolio</a>
+  <div class="label" style="margin-top: 40px;">Writing Sample &middot; Opinion</div>
+  <h1>The Flood Came Again. So Did the Young People.</h1>
+  <div class="byline">By Dawn &middot; Climate &amp; Youth Voices</div>
+
+  <p>Every rainy season, parts of Lagos go underwater. Streets become rivers, shops close, and families count their losses before the water even drains. For most of my life, the response has looked the same: wait, clean up, repeat.</p>
+
+  <p>But something is shifting, and it is being driven by people under 30.</p>
+
+  <p>Across Nigeria and the wider continent, young people are refusing to treat climate change as a distant policy debate. They are organizing cleanups, building flood alert networks on WhatsApp, turning waste into income, and showing up at town halls to ask uncomfortable questions. They are doing this largely without funding, without titles, and without permission.</p>
+
+  <p>That last part matters. For decades, climate conversations about Africa have happened over the heads of the people who will live longest with the consequences. Youth are invited to take photos, not decisions. Yet the most practical climate solutions I have seen come from the ground: a student mapping flood-prone streets, a tailor repurposing fabric waste, a community group planting trees along an eroding road.</p>
+
+  <p>Imagine what happens when that energy meets actual resources. When a 24 year old with a working solution gets funding instead of applause. When storytelling shifts from young Africans as victims of climate change to young Africans as architects of the response.</p>
+
+  <p>The climate crisis is the defining story of this generation. The question is who gets to tell it, and who gets backed to act on it. The young people are already moving. The rest of the system needs to catch up.</p>
+
+  <a class="back" href="../index.html">&#8592; Back to Portfolio</a>
+</div>
+</body>
+</html>
